@@ -6,3 +6,11 @@ Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
+
+Package: originr
+Version: 0.4.0
+Imports: crul, jsonlite, data.table, xml2, taxize (>= 0.9.0)
+Suggests: testthat, vcr
+License: MIT + file LICENSE
+MD5sum: f0408bb0331f11b4dca34dac868037c3
+NeedsCompilation: no

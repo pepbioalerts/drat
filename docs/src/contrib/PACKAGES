@@ -12,5 +12,5 @@ Version: 0.4.0
 Imports: crul, jsonlite, data.table, xml2, taxize (>= 0.9.0)
 Suggests: testthat, vcr
 License: MIT + file LICENSE
-MD5sum: f0408bb0331f11b4dca34dac868037c3
+MD5sum: f340f4d6fa48b9b88ca6195354e87804
 NeedsCompilation: no
